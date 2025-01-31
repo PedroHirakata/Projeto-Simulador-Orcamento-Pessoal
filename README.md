@@ -1,2 +1,2 @@
-# Projeto-Simulador-Or-amento-Pessoal
+# Projeto-Simulador-Orçamento-Pessoal
 Um aplicativo para gerenciar orçamentos pessoais, criado com Streamlit.
